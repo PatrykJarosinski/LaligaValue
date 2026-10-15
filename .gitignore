@@ -1,0 +1,16 @@
+# Environment and local tool files
+.env
+.venv/
+__pycache__/
+*.py[cod]
+
+# Frontend dependencies and build outputs
+frontend/node_modules/
+frontend/dist/
+
+# Editor and operating system files
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+.DS_Store
